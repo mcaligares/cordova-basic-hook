@@ -1,6 +1,6 @@
 {
   "name": "cordova-basic-hook",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Basic hooks for cordova applications",
   "main": "index.js",
   "scripts": {
